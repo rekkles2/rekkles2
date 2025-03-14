@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jiahang Li &#x20;
+## Hi, I'm Jiahang Li &#x20;
 
 I'm passionate about research in artificial intelligence, with a particular focus on: &#x20;
 
@@ -23,12 +23,6 @@ I'm passionate about research in artificial intelligence, with a particular focu
 - Federated learning frameworks &#x20;
 - Video and image analysis tasks &#x20;
 
-### 💬 Let's Connect and Discuss: &#x20;
-
-- Artificial Intelligence &#x20;
-- Innovative research ideas and methodologies &#x20;
-- Potential academic or industrial collaborations &#x20;
-
 ### 📫 How to Reach Me: &#x20;
 
 - Email: [Your Email Here] &#x20;
@@ -36,5 +30,8 @@ I'm passionate about research in artificial intelligence, with a particular focu
 
 ### ⚡ Fun Fact: &#x20;
 
-- Besides AI research, I enjoy creating artistic voice-over projects! &#x20;
+- Besides AI research, I enjoy creating artistic movie and anime dubbing projects! &#x20;
 
+https://github-stats.ubrong.com/api?username=rekkles2&amp;show_icons=true&amp;theme=default
+
+https://profile-counter.glitch.me/{rekkles2}/count.svg
