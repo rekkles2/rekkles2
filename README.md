@@ -18,7 +18,7 @@ I'm a dedicated researcher specializing in **Artificial Intelligence**, particul
 
 ## 📫 Get in Touch
 
-- 📧 **Email:** [lijiahang041119@gmail.com](mailto:lijiahang041119@gmail.com)
+- 📧 **Email:** [lijiahang041119[At]gmail.com](mailto:lijiahang041119@gmail.com)
 
 ---
 
