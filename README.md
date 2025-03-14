@@ -1,79 +1,38 @@
-## Hi, I'm Jiahang Li 👋
+# Welcome to Jiahang Li's GitHub 👋 <a href="https://komarev.com/ghpvc/?username=rekkles2&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=rekkles2&abbreviated=true"/></a>
 
+I'm a dedicated researcher specializing in **Artificial Intelligence**, particularly focused on the following areas:
 
-
-I'm passionate about research in **Artificial Intelligence**, with particular interests in:
-
-
-
-- **Weakly Supervised Learning**
-
-- **Video Anomaly Detection**
-
-- **Federated Learning**
-
-- **Video and Image Processing**
-
-
+-  **Weakly Supervised Learning**
+-  **Video Anomaly Detection**
+-  **Federated Learning**
+-  **Video and Image Processing**
 
 ---
 
+## 🔭 Current Research
 
-
-### 🔭 Current Projects
-
-
-
-- Developing robust methods for weakly supervised video anomaly detection.
-
-- Designing federated learning frameworks for privacy-preserving video analytics.
-
-
+- 🚀 Developing advanced algorithms aimed at enhancing accuracy and robustness in weakly supervised video anomaly detection.
+- 🔒 Designing innovative federated learning methodologies to effectively address privacy concerns and data heterogeneity in cross-scene video anomaly detection.
 
 ---
 
+## 📫 Get in Touch
 
-
-### 📫 How to Reach Me
-
-
-
-- **Email:** [lijiahang041119@gmail.com](mailto:lijiahang041119@gmail.com)
-
-
+- 📧 **Email:** [lijiahang041119@gmail.com](mailto:lijiahang041119@gmail.com)
 
 ---
 
+## ⚡ Personal Interests
 
-
-### ⚡ Fun Fact
-
-
-
-- Besides AI research, I enjoy dubbing artistic movies and anime!
-
-
+🎙️ Beyond research, I'm passionate about voice acting, especially in artistic films and animation.
 
 ---
 
-
-
-<div>
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rekkles2&locale=en&line_height=33&show_icons=true&hide=prs&theme=dracula&rank_icon=github"/>
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekkles2&locale=en&line_height=33&theme=dracula&langs_count=5&layout=donut"/>
-
-</div>
-
-
+Feel free to reach out for collaboration or engaging discussions! 🚀
 
 <div align="center">
-
   <br clear="both"/>
-
   
-
-  ![GitHub访问次数](https://profile-counter.glitch.me/rekkles2/count.svg)
-
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rekkles2&locale=en&line_height=33&show_icons=true&hide=prs&theme=dracula&rank_icon=github"/>
+  <div ><img  src="https://github-profile-trophy.vercel.app/?username=rekkles2&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" /><br/></div>
 </div>
