@@ -28,7 +28,7 @@ I'm a dedicated researcher specializing in **Artificial Intelligence**, particul
 
 ---
 
-Feel free to reach out for collaboration or engaging discussions! 🚀
+**Feel free to reach out for collaboration or engaging discussions! 🚀**
 
 <div align="center">
   <br clear="both"/>
