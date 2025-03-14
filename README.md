@@ -1,5 +1,6 @@
 ## Hi, I'm Jiahang Li &#x20;
 
+
 I'm passionate about research in artificial intelligence, with a particular focus on: &#x20;
 
 - **Weakly Supervised Learning  **
@@ -9,29 +10,19 @@ I'm passionate about research in artificial intelligence, with a particular focu
 
 ### 🔭 Current Projects: &#x20;
 
-- Developing robust methods for detecting anomalies in videos with minimal supervision. &#x20;
-- Exploring privacy-preserving federated learning algorithms tailored for visual data. &#x20;
 
-### 🌱 I'm Currently Learning: &#x20;
-
-- Advanced generative models &#x20;
-- Multimodal deep learning &#x20;
-
-### 👯 I’m Open to Collaborations: &#x20;
-
-- Weakly supervised methods for visual anomaly detection &#x20;
-- Federated learning frameworks &#x20;
-- Video and image analysis tasks &#x20;
 
 ### 📫 How to Reach Me: &#x20;
 
-- Email: [Your Email Here] &#x20;
-- LinkedIn: [Your LinkedIn Profile Here] &#x20;
+- Email: [lijiahang041119@gmail.com] &#x20;
+
 
 ### ⚡ Fun Fact: &#x20;
 
-- Besides AI research, I enjoy creating artistic movie and anime dubbing projects! &#x20;
+- Besides AI research, I enjoy dubbing artistic movie and anime ! &#x20;
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=rekkles2&amp;show_icons=true&amp;theme=tokyonight)
+
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=rekkles2&locale=en&line_height=33&show_icons=true&hide=prs&theme=dracula&rank_icon=github"/>
+<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekkles2&locale=en&line_height=33&theme=dracula&langs_count=5&layout=donut"/>
 
 ![GitHub访问次数](https://profile-counter.glitch.me/{rekkles2}/count.svg)
