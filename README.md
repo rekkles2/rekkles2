@@ -32,6 +32,6 @@ I'm passionate about research in artificial intelligence, with a particular focu
 
 - Besides AI research, I enjoy creating artistic movie and anime dubbing projects! &#x20;
 
-![GitHub账户信息统计](https://github-stats.rekkles2.com/api?username=rekkles2&amp;show_icons=true&amp;theme=default)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=rekkles2&amp;show_icons=true&amp;theme=tokyonight)
 
 ![GitHub访问次数](https://profile-counter.glitch.me/{rekkles2}/count.svg)
