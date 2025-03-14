@@ -24,7 +24,7 @@ I'm a dedicated researcher specializing in **Artificial Intelligence**, particul
 
 ## ⚡ Personal Interests
 
-🎙️ Beyond research, I'm passionate about voice acting, especially in artistic films and animation.
+🎙️ Beyond research, I'm passionate about voice acting, especially in animation.
 
 ---
 
