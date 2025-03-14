@@ -30,7 +30,7 @@ I'm a dedicated researcher specializing in **Artificial Intelligence**, particul
 
 **Feel free to reach out for collaboration or engaging discussions! 🚀**
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rekkles2&locale=en&line_height=33&show_icons=true&hide=prs&theme=dracula&rank_icon=github" />
   <img src="https://github-profile-trophy.vercel.app/?username=rekkles2&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" />
 </div>
