@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Jiahang+Li's+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <br/>
   <a href="https://komarev.com/ghpvc/?username=rekkles2&abbreviated=true" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=rekkles2&abbreviated=true" alt="Profile Views" />
   </a>
@@ -9,14 +10,11 @@
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/rekkles2">
-    <img src="https://img.shields.io/badge/GitHub-Jiahang%20Li-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="mailto:lijiahang041119@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lijiahang041119%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <b>📩 lijiahang041119 [at] gmail [dot] com</b>
   </a>
 </p>
 
@@ -24,27 +22,27 @@
 
 ## 🌟 About Me
 
-I'm a dedicated researcher specializing in **Artificial Intelligence**, particularly focused on the following areas:
+🎓 I am a dedicated researcher specializing in **Artificial Intelligence**, with a focus on:
 
-- **Weakly Supervised Learning**
-- **Video Anomaly Detection**
-- **Federated Learning**
-- **Video and Image Processing**
+- Weakly Supervised Learning
+- Video Anomaly Detection
+- Federated Learning
+- Video and Image Processing
 
 ---
 
 ## 🔭 Current Research
 
-- 🚀 Developing advanced algorithms aimed at enhancing accuracy and robustness in weakly supervised video anomaly detection.
-- 🔒 Designing innovative federated learning methodologies to effectively address privacy concerns and data heterogeneity in cross-scene video anomaly detection.
+- 🚀 Developing advanced algorithms to enhance accuracy and robustness in weakly supervised video anomaly detection.
+- 🔒 Designing federated learning methods to address privacy concerns and data heterogeneity in cross-scene video anomaly detection.
 
 ---
 
 ## ⚡ Personal Interests
 
-🎙️ Beyond research, I am passionate about voice acting, especially in animation.
+🎙️ Beyond research, I am passionate about **voice acting**, particularly in animation.
 
-**Feel free to reach out for collaboration or engaging discussions! 🚀**
+<p align="center"><b>Feel free to reach out for collaboration or academic discussions! 🚀</b></p>
 
 ---
 
