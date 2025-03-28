@@ -1,5 +1,3 @@
-## 🎯 Welcome to Jiahang Li's GitHub 👋
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Jiahang+Li's+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
   <br/>
