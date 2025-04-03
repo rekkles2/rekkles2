@@ -38,15 +38,14 @@ Reviewer for:
 - [Academy of Management Annual Meeting (AOM 2025)](https://aom.org/events/annual-meeting)
 
 ---
-
 ## ⚡ Personal Interests
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZmcDZkYmkwZnF6ejVtNnpxdHZndjlrcGRzaHVqMGt0M3hjdTh2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnuXhLNK1GZkc/giphy.gif" width="200" alt="Tanjiro Kamado Dubbing" />
+  <img src="./fFVuesj2D4jeNa2_O5byD_1428.gif" width="220" alt="Tanjiro Kamado Dubbing" />
 </p>
 
 <p align="center">
-  🎙️ Beyond research, I have a passion for <b>dubbing</b>, especially for anime characters like <b>Tanjiro Kamado</b>. 🎬
+  🎙️ Beyond research, I have a passion for <b>dubbing</b>, especially for anime characters. 🎬
 </p>
 
 ---
