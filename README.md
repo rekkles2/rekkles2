@@ -42,18 +42,12 @@ Reviewer for:
 ## ⚡ Personal Interests
 
 <p align="center">
-  🎙️ Beyond research, I have a passion for <b>dubbing</b>, especially for anime characters. 🎬
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZmcDZkYmkwZnF6ejVtNnpxdHZndjlrcGRzaHVqMGt0M3hjdTh2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnuXhLNK1GZkc/giphy.gif" width="200" alt="Tanjiro Kamado Dubbing" />
 </p>
 
-<details align="center">
-  <summary>🎥 Click to see my favorite anime boy GIFs</summary>
-  <br/>
-  <p align="center">
-    <img src="https://media.tenor.com/WuUCCelq8zAAAAAM/anime-boy.gif" width="200" />
-    <img src="https://media.tenor.com/DKnZdj4wgw0AAAAM/anime-boy-blink.gif" width="200" />
-    <img src="https://media.tenor.com/V5DXRzZodmIAAAAM/anime-boy.gif" width="200" />
-  </p>
-</details>
+<p align="center">
+  🎙️ Beyond research, I have a passion for <b>dubbing</b>, especially for anime characters like <b>Tanjiro Kamado</b>. 🎬
+</p>
 
 ---
 
