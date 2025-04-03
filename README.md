@@ -41,7 +41,19 @@ Reviewer for:
 
 ## ⚡ Personal Interests
 
-🎙️ Beyond research, I have a passion for **voice acting**, particularly in animation projects. 🎬
+<p align="center">
+  🎙️ Beyond research, I have a passion for <b>dubbing</b>, especially for anime characters. 🎬
+</p>
+
+<details align="center">
+  <summary>🎥 Click to see my favorite anime boy GIFs</summary>
+  <br/>
+  <p align="center">
+    <img src="https://media.tenor.com/WuUCCelq8zAAAAAM/anime-boy.gif" width="200" />
+    <img src="https://media.tenor.com/DKnZdj4wgw0AAAAM/anime-boy-blink.gif" width="200" />
+    <img src="https://media.tenor.com/V5DXRzZodmIAAAAM/anime-boy.gif" width="200" />
+  </p>
+</details>
 
 ---
 
