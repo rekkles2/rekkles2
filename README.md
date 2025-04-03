@@ -2,9 +2,39 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Jiahang+Li's+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
   <br/>
   <a href="https://komarev.com/ghpvc/?username=rekkles2&abbreviated=true" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=rekkles2&abbreviated=true" alt="Profile Views" />
   </a>
 </p>
+
+---
+
+## 🌟 About Me
+
+🎓 I'm a dedicated researcher in **Artificial Intelligence**, with research interests including:
+
+-  Weakly Supervised Learning
+-  Video Anomaly Detection
+-  Federated Learning
+-  Video and Image Processing
+
+---
+
+## 🔭 Current Research
+
+- 🚀 Developing advanced algorithms for robust weakly supervised video anomaly detection.
+- 🔒 Designing federated learning methods to address privacy and data heterogeneity challenges in cross-scene video anomaly detection.
+
+---
+
+## 🔥 News
+
+- 🎉🎉🎉📄 **[IJCNN 2025]** Accepted paper:  
+  **View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification** 🚀
+
+---
+
+## ⚡ Personal Interests
+
+🎙️ Beyond research, I have a passion for **voice acting**, especially in animation projects. 🎬
 
 ---
 
@@ -18,29 +48,9 @@
 
 ---
 
-## 🌟 About Me
-
-🎓 I am a dedicated researcher specializing in **Artificial Intelligence**, with a focus on:
-
-- Weakly Supervised Learning
-- Video Anomaly Detection
-- Federated Learning
-- Video and Image Processing
-
----
-
-## 🔭 Current Research
-
-- 🚀 Developing advanced algorithms to enhance accuracy and robustness in weakly supervised video anomaly detection.
-- 🔒 Designing federated learning methods to address privacy concerns and data heterogeneity in cross-scene video anomaly detection.
-
----
-
-## ⚡ Personal Interests
-
-🎙️ Beyond research, I am passionate about **voice acting**, particularly in animation.
-
-<p align="center"><b>Feel free to reach out for collaboration or academic discussions! 🚀</b></p>
+<p align="center">
+  <b>Feel free to reach out for collaboration or academic discussions! 🚀💬</b>
+</p>
 
 ---
 
