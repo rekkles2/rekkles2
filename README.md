@@ -77,7 +77,6 @@ Reviewer for:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rekkles2&locale=en&line_height=33&show_icons=true&hide=prs&theme=dracula&rank_icon=github" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=rekkles2&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
