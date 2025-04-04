@@ -9,8 +9,11 @@
 🎓 I am a dedicated researcher in **Artificial Intelligence**, with research interests in:
 
 - 🤖 Weakly Supervised Learning
+  
 - 🎥 Video Anomaly Detection
+  
 - 🌐 Federated Learning
+
 - 📷 Video and Image Processing
 
 ---
@@ -18,14 +21,19 @@
 ## 🔭 Current Research
 
 - 🚀 Developing advanced algorithms for robust weakly supervised video anomaly detection.
+  
 - 🔒 Designing federated learning methods to address privacy and data heterogeneity challenges in cross-scene video anomaly detection.
 
 ---
 
 ## 🔥 News
 
-- 🎉 **[IJCNN 2025]** Paper accepted:  
-  **View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification** 🚀
+-  **Currently:** 🎓🎓 Three papers (2 journals and 1 conference) are **under review**.
+  
+-  **April 2025:** 🎉🎉 One conference paper **accepted** at **IJCNN 2025**  
+   *View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification* 🚀
+
+
 
 ---
 
@@ -34,7 +42,9 @@
 Reviewer for:
 
 - [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org/)
+  
 - [Annual Meeting of the Cognitive Science Society (CogSci 2025)](https://cognitivesciencesociety.org/cogsci-2025/)
+  
 - [Academy of Management Annual Meeting (AOM 2025)](https://aom.org/events/annual-meeting)
 
 ---
