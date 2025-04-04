@@ -27,10 +27,13 @@
 ---
 ## 🔥 News
 
-- **Currently** 🎓: Three papers (2 journals, 1 conference) are **under review**.
+- **Currently** 🎓  
+  Three papers are currently **under review** — including 2 journal submissions and 1 conference submission.
 
-- **April 2025** 🎉: One conference paper has been **accepted** at **IJCNN 2025**  
-  ✨ *View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification*
+- **April 2025** 🎉  
+  One conference paper has been **accepted** at **IJCNN 2025**!  
+  ✨ *View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification*  
+  📄 [Paper (Coming Soon)](https://example.com/path/to/your/paper) ｜ 💻 [Code](https://github.com/jiangjiawen321/VRAS)
 
 
 
