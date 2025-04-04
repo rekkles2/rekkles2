@@ -25,13 +25,13 @@
 - 🔒 Designing federated learning methods to address privacy and data heterogeneity challenges in cross-scene video anomaly detection.
 
 ---
-
 ## 🔥 News
 
--  **Currently:** 🎓🎓 Three papers (2 journals and 1 conference) are **under review**.
-  
--  **April 2025:** 🎉🎉 One conference paper **accepted** at **IJCNN 2025** 
-   *View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification* 
+- **Currently** 🎓: Three papers (2 journals, 1 conference) are **under review**.
+
+- **April 2025** 🎉: One conference paper has been **accepted** at **IJCNN 2025**  
+  ✨ *View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification*
+
 
 
 
