@@ -30,7 +30,7 @@
 
 -  **Currently:** 🎓🎓 Three papers (2 journals and 1 conference) are **under review**.
   
--  **April 2025:** 🎉🎉 One conference paper **accepted** at **IJCNN 2025** [CCF C|CORE B|THCPL B] 
+-  **April 2025:** 🎉🎉 One conference paper **accepted** at **IJCNN 2025** 
    *View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification* 
 
 
