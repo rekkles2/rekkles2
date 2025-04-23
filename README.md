@@ -27,9 +27,6 @@
 ---
 ## 🔥 News
 
-- **Currently** 🎓  
-  Three papers are currently **under review** — including 2 journal submissions and 1 conference submission.
-
 - **April 2025** 🎉  
   One conference paper has been **accepted** at **IJCNN 2025**!  
   ✨ *View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification*  
