@@ -27,10 +27,14 @@
 ---
 ## 🔥 News
 
-- **April 2025** 🎉  
-  One conference paper has been **accepted** at **IJCNN 2025 (oral)**!  
-  ✨ *View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification*  
-  📄 [Paper (Coming Soon)](https://example.com/path/to/your/paper) ｜ 💻 [Code](https://github.com/jiangjiawen321/VRAS)
+* 📅 April 2025
+  * 🎉 *View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification* —  **IJCNN 2025** *(oral presentation)*
+  *  📄 [Paper (Coming Soon)](https://example.com/path/to/your/paper) │ 💻 [GitHub Code](https://github.com/jiangjiawen321/VRAS)
+
+
+
+
+
 
 
 
