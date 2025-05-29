@@ -44,6 +44,7 @@
 ## 🤝 Academic Service
 
 Reviewer for:
+- [British Machine Vision Conference (BMVC 2025)](https://bmvc2025.bmva.org/)
 
 - [International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org/)
   
