@@ -3,14 +3,13 @@
 </p>
 
 <h1 align="center"><strong>Jiahang Li (李嘉航)</strong></h1>
-
 <p align="center">
   <b>AI Researcher · Machine Learning · Computer Vision · Federated Learning</b>
 </p>
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 - [About Me](#about-me)
 - [Current Research](#current-research)
 - [News](#news)
@@ -20,7 +19,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 🎓 I am a dedicated researcher in **Artificial Intelligence**, focusing on:
 - 🤖 Weakly Supervised Learning  
@@ -30,31 +29,31 @@
 
 ---
 
-## 🔭 Current Research
+## Current Research
 
 - 🚀 Developing advanced algorithms for robust weakly supervised video anomaly detection.  
 - 🔒 Designing federated learning methods to address privacy and data heterogeneity in cross-scene video anomaly detection.
 
 ---
 
-## 🔥 News
+## News&nbsp;🔥
 
 | Date         | Event & Links                                                                                                          |
 |--------------|------------------------------------------------------------------------------------------------------------------------|
-| April 2025   | 🎉 *View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification* <br> <b>IJCNN 2025</b> *(oral)* <br> 📄 [Paper (Coming Soon)](https://example.com/path/to/your/paper) &#124; 💻 [GitHub Code](https://github.com/jiangjiawen321/VRAS) |
+| April 2025   | *View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification* <br> <b>IJCNN 2025</b> *(oral)* <br> [Paper (Coming Soon)](https://example.com/path/to/your/paper) &#124; [GitHub Code](https://github.com/jiangjiawen321/VRAS) |
 
 ---
 
-## 🤝 Academic Service
+## Academic Service 🤝
 
 | Type                | Venues / Workshops |
 |---------------------|-------------------|
-| **Conference Reviewer** | [BMVC 2025](https://bmvc2025.bmva.org/); [IJCNN 2025](https://2025.ijcnn.org/); [CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/); [AOM 2025](https://aom.org/events/annual-meeting) |
-| **Workshop Reviewer**   | [PUT@ICML 2025](https://tta-icml2025.github.io/); [WCUA@ICML 2025](https://www.icml-computeruseagents.com/); [SVU@ICCV 2025](https://short-form-video-understanding.github.io/) |
+| Conference Reviewer | [BMVC 2025](https://bmvc2025.bmva.org/), [IJCNN 2025](https://2025.ijcnn.org/), [CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/), [AOM 2025](https://aom.org/events/annual-meeting) |
+| Workshop Reviewer   | [PUT@ICML 2025](https://tta-icml2025.github.io/), [WCUA@ICML 2025](https://www.icml-computeruseagents.com/), [SVU@ICCV 2025](https://short-form-video-understanding.github.io/) |
 
 ---
 
-## ⚡ Personal Interests
+## Personal Interests&nbsp;🎤
 
 <p align="center">
   <img src="./fFVuesj2D4jeNa2_O5byD_1428.gif" width="220" alt="Tanjiro Kamado Dubbing" /><br/>
@@ -63,11 +62,11 @@
 
 ---
 
-## 📫 Contact Me
+## Contact Me&nbsp;✉️
 
 <p align="center">
-  <a href="mailto:lijiahang041119@gmail.com"><b>📩 lijiahang041119 [at] gmail [dot] com</b></a><br/>
-  <b>Feel free to reach out for collaboration or academic discussions! 🚀💬</b>
+  <a href="mailto:lijiahang041119@gmail.com"><b>lijiahang041119 [at] gmail [dot] com</b></a><br/>
+  <b>Feel free to reach out for collaboration or academic discussions!</b>
 </p>
 
 ---
