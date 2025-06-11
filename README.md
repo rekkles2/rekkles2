@@ -10,18 +10,19 @@
 ---
 
 ## Table of Contents
-- [About Me](#about-me)
-- [Current Research](#current-research)
-- [News](#news)
-- [Academic Service](#academic-service)
-- [Personal Interests](#personal-interests)
-- [Contact Me](#contact-me)
+
+- [About Me ](-about-me-)
+- [Current Research ](-current-research-)
+- [News ](-news-)
+- [Academic Service ](-academic-service-)
+- [Personal Interests ](-personal-interests-)
+- [Contact ](-contact-)
 
 ---
 
-## About Me
+## 🎓 About Me
 
-🎓 I am a dedicated researcher in **Artificial Intelligence**, focusing on:
+I am a dedicated researcher in **Artificial Intelligence**, focusing on:
 - 🤖 Weakly Supervised Learning  
 - 🎥 Video Anomaly Detection  
 - 🌐 Federated Learning  
@@ -29,14 +30,14 @@
 
 ---
 
-## Current Research
+## 🚀 Current Research
 
-- 🚀 Developing advanced algorithms for robust weakly supervised video anomaly detection.  
-- 🔒 Designing federated learning methods to address privacy and data heterogeneity in cross-scene video anomaly detection.
+- Developing advanced algorithms for robust weakly supervised video anomaly detection.  
+- Designing federated learning methods to address privacy and data heterogeneity in cross-scene video anomaly detection.
 
 ---
 
-## News&nbsp;🔥
+## 🔥 News
 
 | Date         | Event & Links                                                                                                          |
 |--------------|------------------------------------------------------------------------------------------------------------------------|
@@ -44,7 +45,7 @@
 
 ---
 
-## Academic Service 🤝
+## 🤝 Academic Service
 
 | Type                | Venues / Workshops |
 |---------------------|-------------------|
@@ -53,7 +54,7 @@
 
 ---
 
-## Personal Interests&nbsp;🎤
+## 🎤 Personal Interests
 
 <p align="center">
   <img src="./fFVuesj2D4jeNa2_O5byD_1428.gif" width="220" alt="Tanjiro Kamado Dubbing" /><br/>
@@ -62,11 +63,11 @@
 
 ---
 
-## Contact Me&nbsp;✉️
+## ✉️ Contact
 
 <p align="center">
   <a href="mailto:lijiahang041119@gmail.com"><b>lijiahang041119 [at] gmail [dot] com</b></a><br/>
-  <b>Feel free to reach out for collaboration or academic discussions!</b>
+  <b>Feel free to reach out for academic collaboration or discussions!</b>
 </p>
 
 ---
