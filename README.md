@@ -57,7 +57,7 @@ I am a dedicated researcher in **Artificial Intelligence**, focusing on
 ## ✉️ Contact
 
 <p align="center">
-  <a href="mailto:lijiahang041119@gmail.com"><b>📧 lijiahang041119@gmail.com</b></a><br/>
+  <a href="mailto:lijiahang041119@gmail.com"><b>📧 lijiahang041119[at]gmail[dot]com</b></a><br/>
   <b>Feel free to reach out for academic collaboration or discussions!</b>
 </p>
 
