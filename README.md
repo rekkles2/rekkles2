@@ -1,23 +1,30 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Jiahang+Li's+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+Jiahang+Li's+GitHub+%F0%9F%91%8B" alt="Typing SVG"/>
 </p>
 
-<h1 align="center"><strong>Jiahang&nbsp;Li</strong></h1>
+<h1 align="center">👋&nbsp;<strong>Jiahang&nbsp;Li</strong></h1>
+
 <p align="center">
-  <b>AI&nbsp;Researcher&nbsp;·&nbsp;Machine&nbsp;Learning&nbsp;·&nbsp;Computer&nbsp;Vision&nbsp;·&nbsp;Federated&nbsp;Learning</b>
+  <em>Rising Senior&nbsp;(B.Eng. in Intelligent Science and Technology) · Computer Vision · Federated Learning · Multimodal Learning</em>
+</p>
+
+<p align="center">
+  I am currently seeking an <strong>on-site or remote research internship</strong> for my final undergraduate year&nbsp;(2025 – 2026).<br/>
+  I would be grateful for the chance to contribute to research in <strong>computer vision</strong>, <strong>multimodal learning</strong>, or <strong>multi-agent systems</strong>.<br/>
+  <a href="mailto:lijiahang041119@gmail.com"><strong>Please feel free to reach out via email</strong></a> if my background aligns with your research objectives.
 </p>
 
 ---
 
-## 🎓 About&nbsp;Me
+## 🎓 About Me
 
-I am a dedicated researcher in **Artificial Intelligence**, focusing on  
-- 🤖 **Weakly Supervised Learning**  
 - 🎥 **Video Anomaly Detection**  
 - 🌐 **Federated Learning**  
-- 📷 **Video & Image Processing**
+- 🤖 **Weakly Supervised Learning**  
+- 🖼 **Image & Video Processing**
 
 ---
+
 
 ## 🚀 Current&nbsp;Research
 
