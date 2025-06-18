@@ -5,7 +5,7 @@
 <h1 align="center">👋&nbsp;<strong>Jiahang&nbsp;Li</strong></h1>
 
 <p align="center">
-  <em>Rising Senior&nbsp;(B.Eng. in Intelligent Science and Technology) · Computer Vision · Federated Learning · Multimodal Learning</em>
+  <em>Rising Senior&nbsp;(B.Eng. in Intelligent Science and Technology) · Computer Vision · Federated Learning · Multimodal Learning · Edge Computing</em>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ## 🎓 About Me
 
 - 🎥 **Video Anomaly Detection**  
-- 🌐 **Federated Learning**  
+- 🌐 **Federated Learning / Edge Computing**  
 - 🤖 **Weakly Supervised Learning**  
 - 🖼 **Image & Video Processing**
 
