@@ -47,6 +47,7 @@
 
 | Role | Venues / Workshops |
 |------|-------------------|
+| **Journal Reviewer**| [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) |
 | **Conference Reviewer** | [BMVC 2025](https://bmvc2025.bmva.org/), [IJCNN 2025](https://2025.ijcnn.org/), [CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/), [AOM 2025](https://aom.org/events/annual-meeting) |
 | **Workshop Reviewer** | [PUT@ICML 2025](https://tta-icml2025.github.io/), [WCUA@ICML 2025](https://www.icml-computeruseagents.com/), [SVU@ICCV 2025](https://short-form-video-understanding.github.io/) |
 
