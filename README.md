@@ -39,7 +39,7 @@
 |---------|----------------------|----------|----------|
 | **Jun&nbsp;2025** | **Dual-detector Re-optimization for Federated Weakly Supervised Video Anomaly Detection via Adaptive Dynamic Recursive Mapping** | ***IEEE&nbsp;Trans.&nbsp;Ind.&nbsp;Inform.&nbsp;2025*** | 📄 [Paper](https://ieeexplore.ieee.org/document/11036561)<br>💻 [GitHub](https://github.com/rekkles2/Fed_WSVAD)<br>🌐 [Project&nbsp;Page](https://rekkles2.github.io/Fed_WSVAD/) |
 | **May&nbsp;2025** | **Federated Weakly-Supervised Video Anomaly Detection with Mixture of Local-to-Global Experts** | ***Inf.&nbsp;Fusion&nbsp;2025*** | 📄 [Paper](https://www.sciencedirect.com/science/article/pii/S156625352500329X) |
-| **Apr&nbsp;2025** | **Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification** | ***CogSci&nbsp;2025*** | 📄 [Paper](https://arxiv.org/abs/2504.05583v1)<br>💻 [GitHub](https://github.com/rekkles2/Gaze-CIFAR-10)<br>🌐 [Project&nbsp;Page](https://szyyjl.github.io/eye_tracking_data.github.io/)<br>🗂️ [Dataset](https://drive.google.com/drive/folders/17zR9bIDWvb0FzSEgR2vXJIKo3w6wKDVB) |
+| **Apr&nbsp;2025** | **Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification** | ***preprint*** | 📄 [Paper](https://arxiv.org/abs/2504.05583v1)<br>💻 [GitHub](https://github.com/rekkles2/Gaze-CIFAR-10)<br>🌐 [Project&nbsp;Page](https://szyyjl.github.io/eye_tracking_data.github.io/)<br>🗂️ [Dataset](https://drive.google.com/drive/folders/17zR9bIDWvb0FzSEgR2vXJIKo3w6wKDVB) |
 | **Mar&nbsp;2025** | **View-Robust Backbone and Discriminative Reconstruction for Few-Shot Fine-Grained Image Classification** | ***IJCNN&nbsp;2025&nbsp;(Oral)*** | 📄 *Paper coming soon*<br>💻 [GitHub](https://github.com/jiangjiawen321/VRAS) |
 
 
