@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Jiahang <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
 
-
+<img align="right" alt="Animation" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
 <h3>👨🏻‍💻 About Me</h3>
 
 - 🎓 Currently studying Intelligent Science & Technology (B.E.) at Tianjin Normal University  
@@ -15,7 +15,7 @@
 - ✨ I aim to develop systems that integrate information across scales and sensory modalities in collaborations between humans and AI, enhancing productivity, promoting well-being, and empowering people with unprecedented creative capabilities
 - 💻 Continuously learning and experimenting with emerging technologies  
 - 🎓 Actively seeking **MPhil/PhD research opportunities** in AI and intelligent systems  
-<img align="right" alt="Animation" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
+
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rekkles2&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jiahang Li's GitHub Stats">
