@@ -14,7 +14,7 @@
 
 - ✨ I aim to develop systems that integrate information across scales and sensory modalities in collaborations between humans and AI, enhancing productivity, promoting well-being, and empowering people with unprecedented creative capabilities
 - 💻 Continuously learning and experimenting with emerging technologies  
-- 🎓 Actively seeking **MPhil/PhD research opportunities** in AI and intelligent systems  
+- 🎓 Actively seeking **MPhil/PhD research opportunities** 
 
 <br>
 
