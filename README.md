@@ -12,7 +12,7 @@
 
 <h3>🔍 Future Goals & Current Focus</h3>
 
-- ✨ I aim to develop systems that integrate information across scales and sensory modalities in collaborations between humans and AI, enhancing productivity, promoting well-being, and empowering people with unprecedented creative capabilities
+- ✨ Designing multimodal foundation models that integrate vision, language, and audio across sensors and scales for human–AI collaboration, to enhance productivity, support well-being, and empower unprecedented creative capabilities
 - 💻 Continuously learning and experimenting with emerging technologies  
 - 🎓 Actively seeking **MPhil/PhD research opportunities** 
 
