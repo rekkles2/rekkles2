@@ -7,7 +7,7 @@
 - 🎙️ Co-founder of **JoyVoice Studio** (non-commercial dubbing studio)  
 - 🎨 Research experience in video anomaly detection, federated learning, weakly/few-shot learning and edge computing
 - ✉️ Reach me: <a href="mailto:lijiahang041119@gmail.com">lijiahang041119 [at] gmail [dot] com</a>  
-<!-- 🌐 Personal website: <a href="https://rekkles2.github.io">rekkles2.github.io</a> -->
+- 🌐 Personal website: <a href="https://rekkles2.github.io">rekkles2.github.io</a> 
 
 
 <h3>🔍 Future Goals & Current Focus</h3>
